@@ -1,0 +1,1106 @@
+Terrain Classification for Small Legged Robots Using Deep Learning on Tactile Data
+Application of machine learning methods to identify and categorize radio pulsar signal candidates
+Using Machine Learning Models to Predict S&P500 Price Level and Spread Direction
+Exploring Adversarial Training for Out-of-Distribution Detection
+Image Super-Resolution Via a Convolutional Neural Network
+Measuring and Incorporating Correlations in Generative Adversarial Networks
+Classification of Legal Text
+Pancreatic cancer prognosis using clinical and radiomic data
+ Household Animals Classification Using Deep Learning
+GAN-Based Image Data Augmentation
+Semi-supervised Segmentation of Brain MRI Images
+Using LSTM and SARIMA Models to Forecast Cluster CPU Usage
+Predicting a Decline in Patient Reported Outcomes for Cancer Patients on Chemotherapy
+Vision-Based Precision Pose Estimation For Autonomous Formation Flying
+CS229: Final Report
+Evaluating Autoencoder Methods for Building a Molecule Graph Autoencoder
+Machine Learning based classification for Sentimental analysis of IMDb reviews
+Application of Artificial Neural Network in Streamflow Forecasting
+CT-based Patient Triage of COVID-19: Radiomics Prediction of ICU Admission, Mechanical Ventilation, and Death of Patients
+Data Driven Solutions and Discoveries in Mechanics Using Physics Informed Neural Network
+Investigation of Near-accident Car-driving Scenario using Deep Imitation Learning and Reinforcement Learning
+Collaborative Filtering on Keywords Recommendation for Clinical Trial Records
+GRE: Evaluating Computer Vision Models on Generalizablity Robustness and Extensibility
+Building the Optimal Book Recommender and measuring the role of Book Covers in predicting user ratings
+Motion Based Handwriting Recognition
+Learning Adversarially Robust and Rich Image Transformation for Object Classification
+Predicting Style And Quality of Vinho Verde from its Physical Properties
+Moving Object Removal in Unlabeled Image Databases
+Natural language Texts for Causal Inference in Randomized Experiments
+Probabilistic Matrix Factorization for Music Recommendation
+Unsupervised Recovery of Tree Metrics from Learned LanguageRepresentations
+Steel Defect Detection with High Frequency Camera Images
+Likelihood of a Work Visa Approval
+Stop and Scan the Trees: Tree Leaf Recognition with Transfer Learning
+Classification of Insincere Questions on Quora
+Predicting Yards Gained on NFL Handoff
+Semantic Similarity Search
+Application of Sentiment Analysis for Labelling Charaters Good or Evil
+Integrity-Based Fault Detection for GNSS Navigation Safety
+Malicious Agent Classification In Multi-Agent Formation Control
+Machine Learning for predicting sediment particle size
+Predicting Movie Ratings with Multimodal Data
+Real-estate price prediction for King County region
+News-oriented Stock Price Trend Prediction
+Vowel formants predict place of articulation of following consonant in Kannada: Evidence for the autosegmental theory of phonology
+Machine Learning Based Pallets Detection and Tracking in AGVs
+Predicting the Response of Triple-Negative Breast Cancer Patients to Neoadjuvant Chemotherapy using Unstructured Text
+ShipNet: A Fishing Vessel DatasetChallenges and Opportunities
+Learning to play SLITHER.IO with deep reinforcement learning
+Using Neural Networks to Learn Quadruped Leg Models
+Predicting Ozone Nonattainment in US Counties with Supervised Learning
+Predicting Eruptive Events at Volcanoes from Earthquake Data
+A Privacy Preserved Image-to-Image Translation Model in MRI: Distributed Learning of WGANs 
+FacePaint: An Exploration of Localized Transfer on Facial Expressions
+ProdKG: Embedding Knowledge Graphs into Product Spaces
+Deep Faking Political Twitter using Transfer lersining and GPT2
+Continuous Control in Bearing-only Localization
+Predicting Weight Loss Using The MyFitnessPal Dataset
+Melbourne Airbnb Price Prediction
+Understanding Molecular Data using Graph Neural Networks
+Barebones Music Generation
+Deap Learning for ETF Price Prediction
+NBA Game Predictions Based on Player Chemistry
+The Goldilocks Zone and Geometric Features of High-Dimensional Parameter Spaces
+Tennis Match Predection using Machine Learning
+Generative Modeling and Prediction of Spontaneous Epileptic Seizures
+How to Build a Recommender System
+TF-Finder: Predicting the Underlying Transcription Factors in Genomic Sequencing Data
+Prioritized Experience Replay via Learnability Approximation
+Discovering Consumer Preferences from Choices
+White Christmas: Remaking Augmented Reality Censorship from Black Mirror with Identity-Preserving Instance Segmentation
+Identification of Monolayer Material
+Multi Class Text Sentiment Analysis
+Smoothing Multi Stage Fine-Tuning in Multi-Task NLP Applications
+Paper Citation Classification
+Analysis and Classification of Symbolic Western Classical Music by Composer
+Context-based Flagging of Misclassified Objects in Aerial Imagery 
+Forecasting Wikipedia Page Views with Graph Embeddings
+Music Generator
+Predicting streetcar delays
+Interpretable & Actionable Models Using Attribute & Uncertainty Information
+Prediction of Future Offensive Performance of MLB Position Players
+Toxic Comment Detection and Classification
+Documentation Is All You Need
+Link Failure Prediction and Localization in Cloud Scale Networks using Supervised Learning
+Patch-based Classification on Low Resolution Images
+Compositional Event Detection Using Weak Supervision
+Utilizing color data in VoteNet for 3D Object Detection in Point Clouds
+Gaining a Statistical Edge in Scorre Prediction using Machine Learning: Role of Meta Statistics in Match Prediction
+What Defines a Good Stack Overflow Answer Post, an automated post rater
+Benchmarking Graph Convolutional Networks Performance with Mixed-Product Space Embedding
+Recurrent Neural Physics Engine
+Tuning of an Aircraft Pitch PID Controller with Reinforcement Learning and Deep Neural Nets
+Regularization Paths for Stratified Cox's Porportional Hazards Model via Coordinate Descent
+Fake Review Detection on Yelp 
+Audio Classification of Accelerating Vehicles
+Spread of Wildfire Pollutants in California
+Prediction of Two Phase Flow Rate Through Wellhead Chokes in Oil Wells
+Combining Signal Transformation to Learning Models for Human Activity Recognition
+Thank You Next: Using NLP Techniques to predict song skips on spotify based on sequential user and accoustic data
+Automatic Lunar Crater Detection from Optical Images and Elevation Maps
+Receipe Rating Prediction
+Uncover The Factors To Help Measure How Young Children Learn
+Bypassing Censorship
+Improving LiDAR Point Cloud Classification of Urban Objects
+Using Reinforcement Learning to Optimize the Rules of a Board Game
+Exploring Feature Visualization: How Optimized Images Range Across Networks and Approaches
+Exploration of Anomaly Detection through CCTV Cameras 
+Effects of Clinical Data in Skin Cancer Classification
+Predicting the Amount of Water Resources in Lake Tahoe
+Subsurface Imaging using GANs
+Ensemble Networks for Better Facial Recognition of Bearded Faces
+Improving Neural Abstractive Summarization via Bert Score
+Computer Vision Lip Reading
+Predicting Used Car Prices
+Semi-supervised EM & Weak-Supervision in Anomaly Detection
+"This Game Is In The Fridge": Predicting NBA Game Outcomes
+Contextual program token predistion
+Predicting Cycling Performance From Historical Data
+Estimating Required Dosage of Warfarin
+Fine Grained Action Recognition in Sport Videos
+Automatic Detection of Breaks and Fractures in X-Ray Bone Images
+Fooling Image Copy Detection Algorithms with GANs
+CNN Image Recognition Architecture Simplification using Patch-Based Data Reduction Techniques
+Efficiently Satisfying Subgroup Fairness in Generalized Classification Settings
+Wildfire Burn Area Prediction
+Active Learning to Solve Class Imbalance in BirdSpecies Classification
+Identifying Brain Activity from EEG Recordings
+Pub2vec: A Recommender System for Similar Publications via Citation Network Embeddings
+Quantum estimation of classifically intractable kernels for highly entangled feature maps
+Predicting Airbnb Listing Price Across Different Cities
+Corporate Bankruptcy Prediction
+Weak Supervision in the Age of Transfer Learning for Natural language Processing
+Predicting Future Performance of Convolutional Neural Networks in Early Training Stages
+A Machine Learning Based Yelp Recommendation System
+Money-laundering detection using machine learning with companies registers’ public data
+Generating Whole Transcriptomic Profiles Using Compressed Sensing and Machine Learning
+Hyperbolic Graph Convolutional Neural Network for Link Prediction on Synthetic Graphs
+Machine learning to predict Reynolds stresses in transitional boundary layer fluid flow
+The Dusk of Survey Dat and the Dawn of Aerial Imagery in Economics: Cost-efficient Housing Price Learning in the Developing World
+Modeling Wine Quality from Physicochemical Properties
+Beyond Fuzzy Matching: Effective ways to transfer learning in NLP
+Assessing Perceptual Noice Level Defined by Human Calibration and Image Rulers
+Applying   Machine   Learning   to   Connect Four
+Forecasting the GBP/USD Exchange Rate in the Era of Brexit
+Weak Supervision with Incremental Source Accuracy Estimation
+Emoji Prediction from Sentence
+Recovering Geometric Information with Learned Texture Perturbations
+Neural Question Generation
+Audio Track Accompaniment
+Material Synthesis Techniques from a Data-driven Perspective
+% LMS: A stochastic gradient algorithm inspired by neurobiology
+Youtune Video Prediction will This be popular?
+Loanliness: Predicting Loan Repayment Ability by Using Machine Learning Methods
+Machine Learning Algorithms for Sourcing and Evaluating VC and PE investment deals
+Software error grouping with machine learning
+Theme Classification for texts Using Naive bayes and neural Networks
+Motor temperature prediction with KNN and CNN
+Physics-aware Neural Network Approach to Inverse Problems in Groundwater Contamination
+Applying Deep Reinforcement Learning to FiniteState Single Player Games
+Predicting a Startup’s Acquisition Status
+An Efficient Algorithm for Robust Collaborative Learning
+Automating the Identification of Illegal Human Activities in the Amazon Rainforest
+Compositionality Detection with Latent Dirichlet Allocation
+Speech to Text Translation Using Google Speech Commands
+Tradeoffs Between Embeddings in Different Models of theHyperbolic Space
+Investigating the Importance of SMEs in InfoSec Machine Learning Projects
+Applying Machine Learning Algorithms to Predict UFC Fight Outcomes
+Kuzushiji Character Recognition & Classifying
+Finite Mixture Models: Beyond the EM Algorithm
+Improved Weak Gravitational Lensing Using Generative Adversarial Netowrks
+A Hybrid Approach to Recommending Recipes with Textual Information
+Typeface Semantic Attribute Prediction from Rasterized Font Representations
+A Bayesian Approach to Predicting Occupational Transitions
+Uncertainty in Deep Learning-Based Compressive MR Image Recovery
+Clustering Phenomena in Dropout
+Listen to Your Data: Turning Chemical Dynamics Simulations into Music
+Generating Song Covers in Different Styles
+Music Genre Classification: Near-realtime VS Sequential Approach
+KKBox’s Music Recommendation
+Grand Digital Piano: Multimodal Transfer of Learning of Sound and Touch
+Musical Instrument Identification with Supervised Learning
+Heart Disease Prediction Using Adaptive Network-Based Fuzzy Inference System (ANFIS)
+Relationship Prediction for Scene Graph Generation
+Predicting Genre from Movie Posters
+Neural Style Transfer
+Eye Spy: Are saccadic eye movements triggered by frame content?
+StruX: Structural Damage Classification for Post-Disaster Recovery
+Visual Relationships as Functions: Enabling Few-Shot Scene Graph Prediction
+Learning With High-Level Attributes
+Exploring Model Architectures and View-Specific Models for Chest Radiograph Diagnoses
+Hierarchical Image Classification in CNNs
+Automated Surf Reports from Image Data
+Single Image Reflection Removal
+Generating Video from Images
+Using Satellite Images to determine AQI Values in California
+Climate Classification Using Landscape Images
+Machine Learning Techniques for Distracted Driver Detection
+Machine Learning for Statistical Arbitrage: Using News Media to Predict Currency Exchange Rates
+Two Machine Learning Approaches for Statistical Arbitrage Pairs Selection
+Making Trading Great Again: Trump-based Stock Predictions via doc2vec Embeddings
+Machine Learning in Intraday Stock Trading
+Optimizing LendingClub’s Financial Risk
+Designing an Investment Portfolio for Public Companies in the Life Sciences
+Algorithmic Trading using LSTM-Models for Intraday Stock Predictions
+Detecting Credit Card Fraud with Machine Learning
+Identifying Industries in Economic Networks
+Foreign Currency Exchange Rate Forecast
+Machine Learning Methods for Causal Inference with Continuous Treatments
+Determining Baseball Performance Quality with an Elo Rating
+Can you on-sight it?
+Evaluating Current Machine Learning Techniques On Predicting Chaotic Systems
+Weekly Climate Indices: Generation and Prediction
+Feature Selection for Predictive Models
+Predicting the Popularity of Reddit Posts
+Modeling Student Learning in Mobile App with Machine Learning
+Satellite Anomaly Prediction using Survival Analysis and Machine Learning
+Predicting Goals Scored for Football Matches
+Structure Type Classification Based on Tax Assessor Data
+Typing Biometrics for User Authentication - a One-shot Approach
+M2Vec: MDP Embeddings through NLP
+Applying Machine Learning the Assessment of Problem-Solving Skills
+Achieving Machine Reasoning for Math Problems Through Step-By-Step Supervision Signal
+Reinforcement Learning for Flight Ticket Pricing
+Active Polling: Improving Presidential Election Predictions by Targeting Polls with Active Learning
+Experimenting With High Dimensional Vector Representations of Instagram Users
+PetFinder Challenge: Predicting Pet Adoption Speed
+Predicting Coral Reef Regimes from Human and Natural Influences
+Identification of Disease in Corn/Maize Based on Physiological Traits
+Combining Multi-Omics Data to Predict Overall Survival of Breast Cancer Patients
+Predicting Risk of Breast Cancer Relapse from Copy Number
+LAS for Dysarthric Speech Recognition
+Classifying Leukemia Using Logistic Regression and Lasso Regression
+OrgoNet: Organic Chemistry Reaction Prediction
+Optimizing Precision Genome Editing through Machine Learning
+Predicting the Severity of Adverse Drug Reactions
+Gene Selection to Predict the Cancer Type from Genome-scale CRISPR–Cas9 Screens
+Multi-omics Factorization Illustrates the Added Value of Deep Learning Approaches
+Deep Learning Based Myocardial Segmentation for Free-Breathing RealTime Cine MRI: Augmentation from Breath-Hold Scans 
+Cardiovascular Disease Risk Prediction using EHRs
+Toxic Comment Classification and Unintended Bias
+Just One Shot of Wine? Developing Siamese LSTM Models for Sentence Similarity
+Toxic Comment Detection and Classification
+A BERT based model for Multiple-Choice Reading Comprehension
+Distractor Re-ranking For Automatic Quiz Generation
+Bots in the Net: Applying Machine Learning to Identify Social Media Trolls
+Recruiting @ Stanford -- Is There Free Food? & Generate that Subject Line
+Automatic Response Generation for Conversational e-Commerce Agents: A Reinforcement Learning Based Approach to Entertainment in NLG
+Text Summarization for Biomedical Domain Content
+Tag Prediction from Stack Overflow Questions
+Building Unbiased Comment Toxicity Classification Model with Natural Language Processing
+Classifying Tweets Based on Climate Change Stance
+Unsupervised Natural Language Generation for Task-Oriented Dialogue System
+ReAcclimate: The New Climate Change Lexicon
+Popular Truth
+Autograder: Classifying Documents to Grade School Level
+Collision Avoidance for Urban Air Mobility Vehicles using Markov Decision Processes
+Predicting Phase of Simulated Molecules Using Radial Structural Functions
+Machine Learning on Biochemical Small Datasets: Strategies for Pursuing Predictive Analyses of Human Voltage Gated Sodium Ion Channel (hNaVs) Inhibitors
+Predicting Microculture Results for Optimized Antibiotic Treatment
+Mesh Sampling for Finite Element Method
+Predicting Solar Power Generation from Weather Data
+“A Billion-Dollar Material”: Predicting Emittance of Photocathode Materials
+Quixote: A NetHack Reinforcement Learning Framework and Agent
+Controlling Two-Wheels Self Balancing Robot Using Q-Learning
+Estimating Object Inertia Properties for Trajectory Control
+Transfer Learning with Random Network Distillation Theory & Reinforcement Learning
+Making Medical Image Reconstruction Adversarially Robust
+Defending Against Adversarial Attacks on Facial Recognition Models
+Generating Target-oriented Regulatory Sequence
+The Bank is Open: AI in Sports Gambling
+High Accuracy Flight State Identification of a Self-Sensing Wing via Machine Learning Approaches
+Classifying Human Activity Using Sensor Data
+Neural Network for Detecting Head Impacts from Kinematic Data
+Predicting Metabolic Cost During Human-in-the-Loop Optimization
+Autonomous Computer Vision Based Human-Following Robot
+Colatron: End-to-end speech synthesis
+HitPredict: Predicting Billboard Hits Using Spotify Data
+Generating music with Machine Learning
+Music Classification through CNN and Classical Algorithms
+Latent Feature Extraction for Musical Genres
+Classifying Music by Genre
+Training a Playlist Curator Based on User Taste
+Investigation of bridge performance under various earthquakes with knowledge of machine learning
+Automated Identification of Gait Abnormalities
+Drawing: A New Way To Search
+U-NoIT
+Classifying Adolescent Excessive Alcohol Drinkers from fMRI Data
+Structural Damage Recognition
+Comparison of Machine Learning Techniques for Artist Identification
+A Method for Removing Facial Features
+Generative Neural Network Based Image Compression
+Autonomous R/C Car Behavioral Cloning Optimization
+Improving Robustness of Semantic Segmentation Models with Style Normalization
+SongNet: Real-time Music Classification
+Pneumonia Diagnosis Detection and Localization 
+Airbus Ship Detection
+Image-caption retrieval
+Real-time Detailed Video Analysis of Fruit Flies
+Amazon Inventory Reconcilation using AI
+Deep Queue Learning: A Quest to Optimize Office Hours
+Lending Club P2P Loan Default Prediction
+A Proximity-Based Early Warning System for Gentrification in California
+Are stock investors "educated" in the right direction?
+Foreign Exchange Forecasting via Machine Learning
+Kaggle Competition 2sigma - Using News to Predict Stock Movements
+Zestimate Bazinga
+Machine Learning Prediction of Companies’ Business Success
+Predicting Foreign Exchange Arbitrage
+A Machine Learning Approach to Assess Education Policies in Brazil
+Airbnb Price Estimation
+Quick, Draw! Doodle Recognition using Generative Learning Algorithms
+Analysis of Code Submissions in Competitive Programming Contests
+Defending the First-Order: Using Reluplex to Verify the Adversarial Robustness of Neural Networks to White Box Attacks
+How real is real? Quantitative and Qualitative comparison of GANs and supervised-learning classifiers.
+Using Census Data to Predict Solar Panel Density
+Pump it or Leave it? A Water Resource Evaluation in Sub-Saharan Africa
+FAD: Fairness through Adversarial Discrimination
+Determining Education Success Factors
+Classifying Spam using URLs
+Predicting Conference Paper Acceptance
+Epsilon : Auto-triaging JIRA
+Discover LinkedIn Job Seeker's Commute Preference
+Sentiment Analysis for Amazon Reviews
+Analyzing the Spread of Fake News Across Networks
+PUBG: A Guide To Free Chicken Dinner
+Personalized Movie Recommendation System
+Utilizing Latent Embeddings of Wikipedia Articles toPredict Poverty
+Hyperbolic Representation Learning for Real-World Networks
+Tichu game outcome prediction
+The Disaggregated Energy Committee
+Predicting Correctness of Protein Complex Binding Orientations
+Isolating single cell types from co-culture flow cytometry experiments using automated n-dimensional gating for CAR T-based cancer immunotherapy
+Identifying Transcription Unit Structure from Rend Sequencing Data
+Early Stage Cancer Detector: Identifying Future Lymphoma cases using Genomics Data
+Large-scale Protein Atlas Compartmentalization Analysis
+Predicting Protein Interactions of Intrinsically Disordered Protein Regions
+Res2Vec: Amino acid vector embeddings from 3d-protein structure
+Predicting the Survivability of Breast Cancer Patients after Neoadjuvant Chemotherapy Using Machine Learning
+Machine Learning for Disease Progression
+Predicting Gene Function Using SVMs and Bayesian Networks
+Painless Prognosis of Myasthenia Gravis using Machine Learning
+Classifying Treatment Effectiveness in Chronic Recurrent Multifocal Osteomyelitis from MRIs
+School-Specific Estimates of Returns to Increased Education Spending in Massachusetts
+Short Answer auto grader
+Classification of News Dataset
+Hybrid Distributional and Definitional Word Vectors
+Text Complexity
+Food χ: Building a Recommendation System for Chinese Dishes
+Attribute extraction from eCommerce product descriptions
+Fine-grained Sentiment Analysis User Reviews in Chinese
+Improving Context-Aware Semantic Relationships in Sparse Mobile Datasets
+Machine Learning techniques in optimization of design of flexible circuits
+Early prediction of battery lifetime
+A data-driven approach for predicting elastic properties of inorganic materials
+AI for Scientific Discovery
+Analyzing Wildfire Dynamics in Northern California
+Learning a Low-Level Motor Controller for UAVs
+Generation of thin-film optical devices with variational auto-encoding
+Learning Chemistry, Moment by Moment
+Machine Learning for Materials Band Gap Prediction
+Bismuth Vanadate (111) facet detection
+Reducing the ATHENA WFI background
+AI is the New Electricity
+Clustering Reduced Order Models for Computational Fluid Dynamics
+Residential Electric Vehicle Charging Characterization via Behavior Identification, Vehicle Classification, and Load Forecasting
+Reconstructing porous media using generative adversarial networks
+Multi-Objective Autonomous Spacecraft Motion Planning around Near-Earth Asteroids using Machine Learning
+Appliance-level Residential Consumer Segmentation from Smart Meter Data
+Pulse Characterization from Raw Data for CDMS
+A generative model for computing electromagnetic field solutions
+Mood and Neurological Disorder Prediction using Head Movement Data during Virtual Reality Experience
+Re-Evolutionary Algorithms 
+Applying deep Q learning/policy gradient to Lunar Lander and the stock market
+Deep Cue Learning: A Reinforcement Learning Agent for Playing Pool
+Defending Against Adversarial Attacks on Facial Recognition Models
+Policy Optimization Methods in Reinforcement Learning
+Adversarial Models of Reality (AMoRe)
+Caesar's Taxi Prediction Service
+Applied Reinforcement Learning in Ads Bidding Optimization
+Product Categorization from Label Clustering
+Fraud detection using machine learning
+Explore Co-clustering on Job Applications
+Predict optimized treatment for depression
+Where is the Chef From?
+Uplift Modeling
+End Mark Prediction?
+Generating Target-oriented Regulatory Sequence
+Weakly Supervised Classifiers with Adversarial Training
+Characterizing Data-Driven Disease Phenotypes in Mental Health
+Bikeshare demand prediction 
+Predicting Grocery Sales with Deep Residual Nets and Embedding
+DeepFire - AI Synthesized Rap
+Music Genre Classification via Machine Learning
+Recommendation System and Retail Investors' Trading Behavior
+Automated Curriculum Learning
+Identification of the correct hard-scatter vertex at the Large Hadron Collider
+Using Capsule Networks to Disarm Adversarial Attacks
+Disease Protein Prediction using Network Embeddings and the Gene Ontology
+Understanding City Demographics from Local Business Activity
+Using Bitcoin Pricing Data to Create a Profitable Algorithmic Trading Strategy
+Machine Learning Prediction of Molecular Structure Given Corresponding Spectra
+Optimized Recurrent Neural Network Story Generator
+Sleep Prediction Using Consumer Wearable Devices
+Abnormal Combustion Detection in a Compression Ignition Engine
+An AI Approach to Automatic Natural Music Transcription
+Pri-Matrix Factorization: Automated Species Tagging in Video Clips
+Extracting Tactics from Cybersecurity Articles
+Unsupervised Face Recognition in Television News Media
+Predicting Sequence-Activity Relationships Among Antimicrobial Peptides (AMPs)
+Semi-supervised Learning for Multi-label Classification
+Finding Sarcasm in Reddit Postings:  A Deep Learning Approach
+Fake News Detection 
+Predicting Diabetes Readmittance
+EmotiGAN
+Identification of the correct hard-scatter vertex at the Large Hadron Collider
+Questions of Bias and Fairness in Using Machine learning for risk assessment
+Understanding the mechanical stability of wellbores using machine learning
+Deep Imitation Learning for Playing Real Time Strategy Games
+Time Series Sales Forecasting
+Predicting Restaurants’ Rating and Popularity based on Yelp Dataset
+Balancing Classifier Fairness with Public Safety in Traffic Stops
+Using Convolutional Embeddings of Large Graphs to Improve Category Classification for Amazon Items
+Predicting CS106 Office Hours Queuing Times
+Music Composition Using Classification Algorithms
+Adversarial Touch Dynamics
+Automated Semantic Segmentation of Volumetric Cardiovascular Features and Disease Assessment
+A neural network approach for predicting urban building energy consumption
+Modeling approaches for time series forecasting and anomaly detection
+Weather-driven predictions of solar energy
+Old Image De-nosing and Auto-colorization Using Linear Regression and Multilayer Perceptron Models
+Real-time Image Style Transfer
+Cardiovascular disease prediction: a novel risk stratification tool
+Predictive Analytics for Demand forecasting in Retail
+Forage: Machine Learning Generated Recipes
+Clustering the Ethereum Blockchain Address Space 
+Deep Learning Approach to Accent Recognition
+Vid2speed
+Controllable text generation
+Automated identification of crystal system from XRD pattern
+Learning the Language of Wine
+Building Effective Goal-Oriented Dialogue Agents
+When to Book: Predicting Flight Pricing
+Defeating the Invaders with Deep Reinforcement Learning
+Machine Translation from Inuktitut to English: Parsing Strategy
+Generating Groove: Predicting Jazz Harmonization
+Voice Commands Recognition with Convolution Neural Network
+Predicting Cellular Networks
+Topological data analysis of convolutional neural networks' weights on images
+Predicting Insurance Risk in Brazil
+Sentiment Classification on Steam Reviews
+Fake News Stance Detection
+Ship Classification Using an Image Dataset
+Rise and Fall: An Autoregressive Approach to Pairs Trading
+Iceberg/ship classifier using satellite data
+Multilabel Tagging System for Yelp Restaurant
+Modeling and Understanding the evolution of innovation in academia 
+Direction Decoder for Brain Computer Interfaces
+Reproduce and Explore Variations of SNAPSHOT ENSEMBLES
+Appliance Specific Power Usage Classification & Disaggregation
+Automatic Melody Transcription
+Deep Reinforcement Learning for Games with Sparse Rewards
+Temporal Poverty Prediction in Developing Countries Using Satellite Imagery
+Predicting Oil Prices
+Predicting Ethereum Price Changes
+To stay or not to stay? Predicting music subscription cancellations
+Applying Minimal Effort Backpropagation to Sparsify Different Neural Networks
+Crop Classification with Multi-Temporal Satellite Imagery
+Explaining and Predicting Price-Spikes in Real-Time Electricity Markets
+What does change in US food prices tell us about the economics of the food market from 2002 to 2006?
+Detecting Thoracic Diseases from Chest X-Ray Images
+Real Time Tennis Match Prediction Using Machine Learning
+Wildfire Prediction
+Subject Measures Prediction from Human fMRI Imaging
+Satellite images segmentation for building detection using  U-net
+From Zero to Hero with F-Zero
+Supervised Learning for Autonomous Driving
+Position Estimation for Control of a Partially Observable Linear Actuator
+Translating a Picture of Math to LaTeX
+Affordable Self Driving Cars and Robots with Pixel by Pixel Segmentation
+Real-time Emotion Recognition From Facial Expressions
+Terrain Classification for Off-Road Driving
+Modelling Student Performance in Massive Online Classes.
+Visual question anwering with attention 
+Exploring Predictors of Team Success in Ultimate Frisbee: An Analysis of Game Statistics for Stanford Women's Ultimate
+Predicting the movie popularity using user-identified tropes
+Predicting Clinical Parameters For Recognition Of Gait Disorder
+Application of Machine Learning Algorithms to Predict Flight-Delay
+Classiﬁcation of single-crystal diffuse scattering images
+Predicting County Level Cost Differences for Treating Chronic Obstructive Pulmonary Disease
+Tracking #metoo on Twitter to predict engagement
+Music transcription using deep learning
+Grapheme to phoneme conversion for Dutch
+Genre Classification of Spotify Songs using Lyrics, Audio Previews, and Album Artwork
+End-to-End Models for Task-Oriented Gameplay in Minecraft with Deep Reinforcement Learning
+Clustering and Classifying Autism to Improve Diagnosis and Research
+Optum: Investigating Links between the Immune System and the Brain
+Reinforcement Learning for Neural Network Architecture
+Survey Analysis of Machine Learning Methods for Natural Language Processing for MBTI Personality Type Prediction
+Mooc Dropout Prediction
+Run. Reward. Repeat.
+Unwrapping Multi-Passed Images
+Does Your Phone Know Your Touch?
+Applying Different Machine Learning Models to Predict Breast Cancer Risk
+Automatic colorization for line arts
+Automated Playlist Generation
+Machine Learning to Inform Breast Cancer Post-Recovery Surveillance
+Predicting global gene expression from chromatin accessibility in the developing mammalian forebrain
+Machine Learning for Professional Tennis Match Prediction and Betting
+Generative Modeling of Aggregated Musical Preferences
+Digital Image Denoising
+Music Genre Classification
+Automated Transcript Generation for Video Conferences
+Predicting Hard Disk Drive Failures 
+Proactive Storage Management to Reduce Data Center Downtime
+DISCo: Detecting Insults in Social Commentary
+Prediction of microscale droplet instability in concentrated emulsion
+Search for Informative Coding in Neural Activity Correlations
+Predict the Likelihood of Responding to Direct Mail Campaign in Consumer Lending Industry
+Reinforcement Learning for Robotic Locomotion
+Understanding Travel to Airports in NYC
+Clustering Startups Based on Customer-Value Proposition
+Convex Optimization For Machine Learning (cvx4ml)
+Improving Human-in-the-Loop Optimization Algorithms using Machine Learning Techniques
+Feature ​​Extraction ​in Satellite Imagery​ Using Support Vector​ ​Machines
+Allstate Insurance Claims Severity: A Machine Learning Approach
+Clustering-Based Diversification in Financial Portfolios
+When to Stop-and-Frisk
+Authorship Attribution with Limited Text
+Smart Recipe Measurements with Learned Volume Prediction
+Crafting Adversarial Attacks on RNNs
+Generate Adversarial Attacks
+Functional Data Analysis for Rain Rate Statistics
+Learning to drive in a basic OpenAI simulator
+Efficient and accurate time-integration of combustion chemical kinetics using artificial neural networks
+Price Prediction Evolution: from Economic Model to Machine Learning
+Predicting Song Genre from Lyrics and Fast Fournier Transforms
+Short time horizon solar power forecasting
+Adaptive Multi-Agent Path Planning for Distributed UAV Systems
+When Was it Written?
+Playing CHIP-8 Game with Reinforcement Learning
+Classification Models of Driving Distraction: Analysis and Comparison
+Converting Handwritten Mathematical Expressions into LATEX
+Unsupervised Cross-Domain Image Generation
+Predicting Politician NRA Ratings from Campaign Speeches
+Semantic Segmentation of 3D Particle Interaction Data Using Fully Convolutional DenseNet
+Image Control of the Inverted Pendulum
+AKI Prediction
+Reinforcement learning for PACMAN
+Application of Deep Learning to Algorithmic Trading
+Multi-class classification via proximal mirror descent
+I Spot A Bot
+Optimizing Downsampling in Variable Density Experimental Data: Predicting Metallic Glasses
+Exploring 3D Convolutional Neural Networks for Lung Cancer Detection in 3D CT Volumes
+What's for Dinner? Recommendations in Online Grocery Shopping
+Bilateral Trade Flow Prediction
+Pathological Lymph Node Classification
+Learning How People Respond to Changes in Energy Prices
+Recipe for Success
+Dynamic Portfolio Optimization Using Evolution Strategy
+Classifying Entorhinal Cortex Neuronal Cell Types in Virtual Reality
+Auto Generation of Arabic News Headlines
+Language Identification Using Neural Networks
+Inverted Pendulum on a Quadcopter: A Reinforcement Learning Approach
+Machine Learning Models for Inverse Power Flow in the Electricity Grid
+Fast or Furious? - User analysis of SF Express Inc
+Fire Prediction in Southeast Asia Using Remote Sensing
+Breaking CAPTCHA Using Deep Learning
+Numerical Optimization on a Perturbed Cost Function
+Black Lives Matter: Clustering As a Way of Analyzing Online Discussions Around Race 
+Face Generation with Conditional Generative Adversarial Networks
+Playing DOOM with Deep Reinforcement Learning
+Multiview Human Synthesis From a Singleview
+"Do I Hear 3NT?": Learning a Bridge Bidder
+Techniques for Optimizing Information Exchange in Educational Settings: Stackexchange as Case Study
+Voice Transmogrifier: Spoofing My Girlfriend's Voice
+Speech Accent Identification
+Prediction of Cellular Service Quality
+Projecting 3-point shooting for NBA draft prospects
+3D Pose Estimation in ICUs using Depth and Thermal Sensors
+PACCAR: Predicting Time to Repair with Minimal Data
+Object Detection Using Machine Learning for Autonomous Larvacean Tracking
+Reliabe neural networks via abstention
+Predicting Agricultural Yields with ML
+Instagram Hashtag Prediction, With and Without Data
+Image Mosaic
+Co-Citation for PubMed
+Predicting tech stock prices based on previous prices and news
+The Price Is Right: Predicting Prices Using Product Images
+Cryptocurrency Price Prediction based on News and Social Media Sentiment
+Revisiting the Netflix Prize: Probabilistic Extensions to KNN and Other Techniques
+Prediction of Pedestrian Trajectories 
+Multi-Modal Information Extraction (Question-Answer Framework)
+A machine learning based stock trading framework using technical and economic analysis
+Supervised learning methods for biometric authentication on mobile devices
+Predicting Chemical Reaction Type and Reaction Products with Recurrent Neural Networks
+Scalable Deep Learning for Image Classification with K-Means and Logistic Regression
+Weighted Alternating Least Squares (WALS) for Movie Recommendations
+Deep RL For Starcraft 2
+Grammatical Error Correction using Neural Networks
+Real Time Monitoring of CCTV Camera Images Using Object Detectors and Scene Classification for Retail and Surveillance Applications
+Content Analysis of YouTube Data
+Computer Vision for Card Games
+iTalk
+Classification of Alzheimer's Disease using Patients' MRI and Related Features
+Learning Optical Flow from Real Robot Data
+Heart Disease Prediction using Ensemble Learning
+Predicting Outcomes of Professional DotA2 games
+An Automatically Generated Large Scale Corpus for NLI
+Speaker Identification with VoxCeleb DataSet
+Predict Effect of Trump's Tweets on Market Movements
+Machine Learning approaches for Identifying & Characterizing Faults in Logic Simulation for Silicon Development Processes
+Mutation Profile to Predict Tumor Stage in Lung Adenocarcinoma
+A Neural Network Based ElectroMagnetic Solver
+Depositional Environment Classification from Satellite Imagery
+Using Machine Learning to Make a Likely Voter Model
+Automatic Music Transcription for Monophonic Piano Music
+Machine Learning Techniques for Climbing Route Classification 
+Application of Variational Autoencoders for Aircraft Turbomachinery Design
+Split-Complex Convolutional Neural Networks
+Cryptocurrency Pumping Predictions: A Novel Approach to Identifying Pump And Dump Schemes
+Clickbait ; Don't Read
+Rage Against the Machine Learning: Learning to Predict Song Popularity
+​Forecasting ​of ​Arctic ​phytoplankton ​abundance ​using ​remotely sensed ​data ​and ​machine ​learning
+The Art of Human Movement
+Detecting Pneumonia from Chest X-Rays
+Predicting NBA Game Outcomes
+Projecting NFL Quarterback Readiness
+Predicting Outcomes in Chatbot-based Cognitive Behavioral Therapy
+Rock or Not? This sure does.
+Machine Learning Techniques for Network Intrusion Detection
+Automated analysis of temperature data in fractured wells
+Line shape fitting of iodine spectra near 532 nm 
+Predicting Bike Rental Duration 
+Calibrate Time Series by LSTM
+Recommender Systems: Comparison Analysis between Traditional Techniques and Neural Embedding
+Towards Mitigating Bias in Online Reviews: An Application to Amazon.com
+How Much Is the Mona Lisa Really Worth?
+Fake Review Detection on Yelp
+Predicting Which Stocks Will Beat the Market
+Inference of subsurface properties by machine learning
+Predicting MTA Bus Arrival Times in New York City
+Using Bitcoin Ledger Network Data to Predict the Price of Bitcoin
+Predicting Loan Defaults with Machine Learning
+General Adversarial Privacy
+Grapevine
+Predicting habitable exoplanets from NASA's Kepler mission data using Machine Learning
+Finding Natural S&P 500 Sectors Based on 10K Reports
+Local Degree of Freedom Ductility
+Message in a bottle: learning dynamics in the information plane
+Application of Machine Learning Techniques for Heart Sound Recording Classification
+Smart Trash Net: Waste Localization and Classification
+Unruffling Feathers: Customer Response Prioritization Using Machine Learning
+Optimization of the Syngas Combustion Chemistry Model
+Modeling language games
+Using Bitcoin Ledger Network Data to Predict the Price of Bitcoin
+Automatic earthquake detection from distributed acoustic sensing (DAS) array data
+Generating personalized chat messages
+Interpreting impact of metadata tagging on thoracic disease classification
+Predicting Expected Email Response Times
+Algorithmic Trading using Sentiment Analysis and Reinforcement Learning
+Potayto or potahto, jagaimo or bareisho? Japanese dialect classification
+Generating Place Recommendations for Travelers
+Reinforcing safety, with style: exploring reward shaping through human feedback
+Detecting Fraud in Financial Payments
+Word Games: Coherent Document Reconstruction
+Robust Human Activity Detection with Smartphones
+Predicting cryptocurrency price
+Ensembling Approaches to Hierarchical Electric Load Forecasting
+Optimizing Traffic Light Behavior in Real-World Environments
+RainbowNet: Color Extrapolation from Grayscale Images
+Computing Song Similarity Using Deep Unsupervised Learning
+Nothing but Neural Net: Projecting NBA Basketball Shot Trajectories
+Predicting Sovereign Default
+Exploring Feature Embeddings using Feedback Networks
+PC game play time estimation based on Steam data and reviews
+Wine Rating Prediction
+Understanding Career Progression in Baseball Through Machine Learning
+Reinforcement Learning Applied to a Game of Deceit
+"Because It's the Cup": Predicting the Stanley Cup Playoffs
+Using AI to Make Predictions and  Decisions on Stock Market
+Predicting Baseball Postseason Results from Regular Season Data
+Generating Dark Matter Halo Catalogs For Cosmological Simulations
+Two Machine Learning Approaches to Understand the NBA Data
+Estimation of Reservoir Simulation Response for Different Relative Permeability Curves Using Machine Learning
+GPS Multipath Detection and Mitigation
+Predicting the Outcome of H-1B Visa Applications
+Do Android Dream of Explosive Sheep? Building a Hearthstone AI
+Commercial Building Electricity Load Forecasting Using Linear Regression and Neural Networks
+Lane Changing Prediction Modeling on Highway Ramps:  Approaches and Analysis
+Grammatical Error Classification for Non-native English Writers
+Whose Rap is it Anyways? - Determining Hip-Hop Artists from their Lyrics
+Dynamic loan default prediction
+Artistic Image Colorization with Visual Generative Networks
+Personal Identification through Keystroke Dynamics
+A Net Over Your Head: A Neural Network Approach to Home Price Predictions
+Learning an Optimal Policy for Police Resource Allocation on Freeways
+Discouraging Cyberbullying using SVMs
+Speeding up ResNet training
+Toward Automatic Icon Design Using Machine Learning
+Dimensionality Reduction for Bag-of-words Models: LSA vs PCA
+Sentimental Analysis with Amazon Review Data
+Bird Classification and Feature Recognition
+Human or Robot
+Predicting NBA shots
+Poverty Prediction by Selected Remote Sensing CNN Features
+Beating Daily Fantasy Football
+Beating the Bookies: Predicting the Outcome of Soccer Games
+Beating the Odds, Learning to Bet on Soccer Matches Using Historical Data
+Building an NFL performance metric
+Cuff-Less Blood Pressure Monitoring using ECG and PPG Signals
+Data-Driven Insights into Football Match Results
+Do you even lift, bro?
+Embodied Music Meditation: A Real-time Interactive Audio-Visual System for Buddhist Mudras Exploration
+GNSS Pseudorange Classification and Satellite Selection
+GPS Trace Modality Classification
+Human Activity Recognition
+Human Activity Recognition Using Smartphone Data
+Human Activity Recognition using Smartphone Sensors
+Predicting Fantasy Football Production for Daily Fantasy Leagues
+Predicting Future NBA Scores from Play-by-Play Data
+Predicting Pitchers' Early Career Value From Rookie Year Performance
+Predicting Point Spread in NFL Games
+Predicting Run vs. Pass Plays in the NFL
+Predicting the Trajectory of an NBA Player's Career
+Remote Surface Classification for Robotic Platforms
+Sensor-based Semantic-level Human Activity Recognition using Temporal Classification
+Applying Machine Learning to Music Classification
+Classifying an Artist's Genre Based on Song Features
+Conditioning WaveNet on Learned Formant Characterizations for Speech Audio Enhancement
+Detecting Musical Key with Supervised Learning
+Keyword Spotting in Arabic Speech
+Music Composition with RNN
+Music-Speech Discrimination
+Neural Network for Music Instrument Identification
+Predicting Imagined Meters in Musical Patterns from MEG Data
+Recurrent Neural Networks with Attention for Genre Classification and Music Compositon
+Video Game Genre Classification by Soundtrack
+3D Point Estimation Using Recursive Networks
+ASL Fingerspelling Interpretation
+Adversarial  Attack on Image Recognition
+Applying Machine Learning Techniques to Steering Angle Prediction in Self-Driving Cars
+Are Anime Cartoons?
+Artistic Style Transfer for Face Portraits
+Automated Image-based Detection of State of Construction Progress
+Automated Restyling of Human Portrait Based on  Facial Expression Recognition and 3D Reconstruction
+Chinese Calligraphy Font Classication and Transformation
+Classification of Driver Distraction
+Classification of Garbage Into Different Waste Classes
+ColoRNN Book: A Recurrent Deep Learning Approach to Consistent Video Colorization
+Create your own Chinese calligraphy artwork
+Deep Learning Approach to Planogram Compliance in Retail Stores
+Deep Learning Based Food Recognition
+DeepCrop: Whole Object Auto-Cropping with Deep Learning
+Denoising Low Light Images
+Detect Distracted Driver
+Detecting Diabetic Retinopathy with Convolutional Neural Networks
+Driving a car with low dimensional input features
+End-to-End Driving Controls Prediction from Images
+Example-Based Image Super-Resolution Techniques
+Generative adversarial network based adversarial examples generation and defense
+GoGoGo: Improving Deep Neural Network Based Go Playing AI with Residual Networks
+Guqin Notation and Music Style Recognition
+Is He Chinese, Korean or Japanese?
+Machine Learning for Different Calligraphers Style Recognition
+Machine Learning for Human Activity Recognition
+Measuring Aristic Similarity of Paintings
+Monitoring Illegal Fishing through Image Classification
+Neural Networks for Video Frame Interpolation
+Out-of-focus: Learning Depth from Image Bokeh for Robotic Perception
+PDF Table Extractor
+Painfree LaTeX with Optical Character Recognition and Machine Learning
+Plant Leaf Recognition
+Predicting Gentrification with Satellite Imagery
+Real-time Object Detection
+Recognition of Tourist Attractions Using Convolutional Neural Networks
+Seeing Beyond Seeing with Enhanced Deep Tracking
+Single RGB Image Depth Estimation in Indoor and Outdoor Scenes
+Socially Aware Neural Nets for Effective Crowd Navigation
+Study Impact of Architectural Style and Partial View on Landmark Recognition
+Target Tracking with Particle Filtering and Recurrent Neural Nets
+Viewpoint Invariant Person Detection in RGB-D Data
+YOLOFlow
+Boozed‰Ûªd Trees‰ÛÓBeer Sales Forecasting
+Comparative Automated Bitcoin Trading Strategies
+House Price Predictions with Advanced Regression and Classification Techniques
+NLP Analysis of Company Earnings Releases
+Portfolio Management using Reinforcement Learning
+Predicting Flight Delays Using Weather Data
+Predicting News Sharing on Social Media
+Predicting Stock Price Movement Using Crowd Sentiment Analysis
+Predicting Success of Restaurants in Las Vegas
+Predicting film box office in the United States
+Stock Market Trends Prediction after Earning Release
+Unstructured Document Recognition on Business Invoice
+Wind Power and Electric Load Forecasting
+A Personalized Recommendation System for Yelp Users
+AI Plays 2048
+Achieving Better Predictions with Collaborative Neighborhood
+Adversarial Machine Learning against Keystroke Dynamics
+Allocating aid to right people
+American Immigrants Classification and Naturalization Time Prediction of Different Groups
+Applying machine learning to the board game Pylos
+Automatic Recognition of Pick and Roll Plays
+Autonomous Super Mario Agent
+Bayseian Knowledge Tracing
+Bias In Wikipedia: Different Links, Different Stories
+Binary Multi-layer Neural Network Implemented with Non-volatile Memory Crossbar for Efficient Neuromorphic Computing
+Click Recommendation
+Complementary Venue Recommendation Model for Yelp
+Creating a Dominion AI using Genetic Algorithms
+Deep Q-learning on Atari Assault
+Developing a Regression Algorithm for Predicting Magic: The Gathering Card Efficiency in Draft Format
+Distance Correlation
+Ensembling and Other Defenses Against Adversarial Examples
+Fingerprint Identification using SVM
+Generating Ad-Hoc Curricula
+Hacking AES-128
+High-Speed Autonomous Driving through Unknown Map
+League of Legends Match Outcome Prediction
+Learning Long Term Dependencies with Deep Logarithmic Residual LSTMs
+Learning Multiagent Congestion Control Schemes
+Learning To Cook
+Learning a Double Dummy Bridge Solver
+Learning from Yelp
+Learning the Network Structure of Heterogeneous Data
+Machine Learning for Aircraft System Identification
+Machine Learning with Insufficient Data Amount
+Making Our Cities Safer: A Study of Neighborhood Crime Patterns
+Minority Report: ML Fairness in Criminality Prediction
+Modeling Flight Delays
+Motion Planning in Unknown Environments
+Movie Recommendation: Aggregation of Collaborative Filtering and Low-rank Matrix Recovery
+New York City Cab Pricing
+Outbrain Click Prediction
+Predict Commercial Promoted Contents Will Be Clicked By User
+Predicting Compensation for Job Seekers
+Predicting Emergency Incidents in San Diego
+Predicting Freeway Traffic in the Bay area
+Predicting K-5 School Enrollment for the New York City Department of Education
+Predicting Median Income from Yelp Review Language
+Predicting Movie Popularities Using Their Genomes
+Predicting NFL Score Differences using Markov Models
+Predicting Popularity of Posts on Hacker News
+Predicting Sexual Orientation Based on Facebook Status Updates
+Predicting Which Recommended Content Users Click
+Predicting Yelp Users Rating Based on Previous Reviews
+Prediction of Research Impact : A Case Study for Nanotechnology
+Predictive analysis on Multivariate, Time Series Datasets using Shapelets
+Real-time learning and prediction of public transit bus arrival times
+Reviving our infrastructure to save lives
+San Francisco Crime Classification
+Sensitivity of Jury Trial Outcomes to Trial Factors
+Sparse Estimation of Movie Preferences via Constrained Optimization
+Spectral Learning of General Latent-Variable Probabilistic Graphical Models: A Supervised Learning Approach
+Sports Data Mining: Predicting Results for Professional Basketball Games
+Use of unstructured learning to detect gerrymandering across school districts
+Using Machine Learning Algorithms to Identify Undervalued Baseball Players
+Using Yelp Reviews to Improve Businesses
+Where Can Clean Technology Help? Machine Learning to Identify Environmentally At-Risk Communities in the United States
+ZSY Playing
+Annotating pathogenicity of genetic variants
+Applying Boosting Algorithm for Improving Diagnosis of Interstitial Lung Diseases
+Applying LSTM Deep Networks for Human Seizure Prediction
+Applying Machine Learning to Predict and Explain Primate Consortship
+Automatically Quantifying Radiographic Knee Osteoarthritis Severity
+Bianca: Mouse behavior tracking
+Building a Better Risk Prediction Model for ASCVD
+CNNs for Segmenting Confluent Cell Culture
+Classification of Neonatal Brain Ultrasound Scans Using Deep Convolutional Neural Networks
+Computational prediction of clinical outcome of sepsis from critical care database
+Data driven prediction of Material Bandgap
+DeepEyes: Extraocular Disease Classification
+Determining Disinfection Byproduct Formation during Disinfection using Treatment Parameters
+Diabetic Retinopathy Identification and Severity Classification
+Encoding the natural response of primate retina
+Ensemble Prediction of Intrinsically Disordered Regions in Proteins
+Generative models for the trajectories of slow-progressing mobility diseases following medical interventions
+Genome Dreaming
+Independent Component Analysis (ICA) of functional MRI (fMRI) data
+Investigating Autism and The Human Microbiome
+Models of Neuron Coding in Retinal Ganglion Cells and Clustering by Receptive Field
+Predicting Energy Usage of School Buildings
+Predicting Image Categories using Brain Decoding
+Predicting prokaryotic incubation times  from genomic features
+Segmentation of Medical Ultrasound Images using Convolutional Neural Networks with Noisy Activation Functions
+Separation of MR multiband images using complex independent component analysis
+Using Genomic Data to Identify Co-Variation Patterns and Predict Outcomes in Human Cancers
+Automatic Generation of Lyrics in Bob Dylan's Style
+Classifying Social Unrest through Twitter Sentiment
+Detecting Temporal Relations of Events in Short Narratives
+Disentangling Multiple Narratives through Natural Language Processing
+Improving Yelp Restaurant Recommendations
+Key-sentence extraction with Neural Networks
+Language Models for US Presidential Candidates
+Language Recognition and using Speech Recordings
+Multiclass Classification of Tweets and Twitter Users Based on Kindness Analysis
+Paragraph Topic Categorization
+Predicting Mass Movements with Google Trends Data
+Predicting the Likelihood of Response in a Messaging Application
+Prediction of the crude oil price thanks to natural language processing applied to newspapers
+Removing Bias from Word Embeddings
+Semantic Analysis of Political Speeches
+Sentiment Classification and Opinion Mining on Airline Reviews
+Stack Overflow Query Outcome Prediction
+Tracking the relevance of conferecens
+Visual-Tex
+A Reinforcement Learning Approach for Motion Planning of Hopping Rovers
+Beam Detection Based on Machine Learning Algorithms
+Classification of River Delta Channel Bifurcation Points in Remote Sensing Imagery
+Data classification for diffraction images
+Data-Driven Earthquake Location Method
+Determining Aircraft Sizing Parameters through Machine Learning
+Digital Predistortion Using Machine Learning Algorithms
+Facies Characterization of a Reservoir in the North Sea Using Machine Learning Techniques
+Galaxy Morphology Classificatoin
+Human Fall Detection in Indoor Environments Using Channel State Information of  Wi-Fi Signals
+I Know Where You Are: Indoor WiFi Localization Using Neural Networks
+Implementing Machine Learning to Earthquake Engineering
+Improving efficient collapse intensity measures using machine learning
+Learning Catalysts, One Piece at a Time
+Machine Learning The Optimal Power Flow Problem
+Markov Model in Time for Transport in Porous Media
+Neural Networks for calibrating ATLAS jets
+Predicting Earthquake Characteristics from a Single Seismic Station
+Quark-gluon tagging in the forward region of ATLAS at the LHC
+Rainfall Prediction in California
+Reduced order modeling approach for cardiovascular stent design
+Reimaging Shallow Structure
+Temperature predictions for the Y2E2 building
+Uncertainty quantification and sensitivity analysis of reservoir forecasts with machine learning
+Weather Forecasting
+X-Ray Photoelectron Spectroscopy Enhanced by Machine Learning
+AI for Chrome Offline Dinasour Game
+Aerobatics Aircraft Controller with Reinforcement Learning
+Algorithms for Learning Good Heuristics
+Application of Machine Learning to Link Prediction
+Control of Inverted Double Pendulum using Reinforcement Learning
+Deep Q-Learning with Recurrent Neural Networks
+Deep Reinforcement Learning for Atari games aided with human guidance
+Deep Reinforcement Learning for General Game Playing
+Deep learning based motor control unit
+Implementing Q-Learning for Breakout
+Killing Zombies in Minecraft Using Deep Q-Learning
+Predicting users‰Ûª political support from their Reddit comment history
+Reinforcement Learning for Autonomous Racing in Simulation
+Reinforcement Learning for Dam Control
+Reinforcement Learning for Feature Selection in Affective Speech Classification
+Reinforcement Learning for Rapid Roll
+The Applicability of Machine Learning Concepts to Game Artificial Intelligence
+Using Reinforcement Learning to Play Othello
+When does stochastic gradient descent work without variance reduction?
+Aspect-based Sentiment Analysis on Hotel Reviews
+Assigning Style Grade and Providing Style Feedback by k-means Clustering and Softmax Regression
+Automatic Segmentation and Diagnosis of Mass Lesions in Mammograms
+Building on existing Bayesian learning for Safe High Speed Planning in Partially Observable Environments
+Campus Location Recognition using Audio Signals
+Characterizing United States Presidential Candidates' Speech Patterns
+Classification of Abdominal Tissues by k-Means Clustering for 3D Acoustic and Shear-Wave Modeling
+Classification of Hand Gestures using Surface Electromyography Signals For Upper-Limb Amputees
+Classification of Transcription Start Sites in the Human Genome
+Demystifying the workings of Lending Club
+Discovery of Transcription Factor Binding Sites with Deep Convolutional Neural Networks
+Dynamic Throttle Estimation by Machine Learning from Professionals
+Energy Measurement in EXO-200 using Boosted Regression Trees
+Exploration of Reinforcement Learning to SNAKE
+Exploring review quality and social network influence in the Yelp Academic Dataset
+Exploring the Efficacy of Machine Learning in General Game Playing
+Exploring Video Game Recommendation Techniques
+Finding Your Way, Courtesy of Machine Learning
+Have You Met The 1? A Machineâ€™s Approach to Human Relationships
+Hotel Recommendation Based on Hybrid Model
+Household Energy Disaggregation based on Difference Hidden Markov Model
+How Much Is My House Worth? Predicting Housing Prices in McKinney, Texas
+Human Action Recognition Using CNN and BoW Methods
+Humanities Research Recommendations via Collaborative Topic Modeling
+Initial Steps Toward Automating Legal Document Editing
+Learn To Rate Fine Food
+Learning hypernymy in distributed word vectors via a stacked LSTM network
+Learning online dating preferences from neuroimaging data
+Machine Learning for Autonomous Jellyfish Orientation Determination and Tracking
+Machine Recognition of Squiggles in SETI Signal Data
+Material decomposition using neural network for photon counting detector
+Modeling HLA ligands for binding prediction of new peptides
+Modeling Malicious Network Packets with Generative Probabilistic Graphical Models
+Modeling Political Identity
+Non-stationary autoregressive filters for prediction of subsurface geological structure
+Online Active Trajectory Classication for Motion-based Communication of Robots
+Optimised Prediction of Stock Prices with Newspaper Articles
+Playing Chinese Checkers with Reinforcement Learning
+Predicting an Aptamer's Target Binding Autumnnity Using its Nucleotide Sequence
+Predicting Expedia Hotel Cluster Groupings with User Search Queries
+Predicting International Restaurant Success with Yelp
+Predicting Life Expectancy of Acute Myeloid Leukemia (AML) Patients Based on Gene Expression of Cancer Cells
+Predicting Media Bias in Online News
+Predicting Medicare Costs Using Non-Traditional Metrics
+Predicting Perfume Rate and Popularity
+Predicting Stock Prices and Analyst Recommendations
+Prediction of Stock Price Movements Using Options Data
+Question Answering with Neural Networks
+Recognizing Emotion from Static Images
+Reinforcement Learning for Traffic Optimization
+Shale Gas Production Decline Prediction Using Machine Learning Algorithms
+Social Network Circle Discovery Using Latent Dirichlet Allocation
+Structure Prediction of Optical Functional Devices with Deep Learning
+Supervised Learning to Predict Human Driver Merging Behavior
+The Automated Travel Agent: Hotel Recommendations Using Machine Learning
+To what extent are color percepts and motor choice represented in dorsal premotor cortex?
+Topic Retrieval and Articles Recommendation
+Twitter US Airline Recommendation Prediction
+Using Convolutional Neural Networks to Perform Classification on State Farm Insurance Driver Images
+Using Spatio-Temporal Data To Create A Shot Probability Model
+Visual Attention Models of Object Counting
+Will our new robot overlords play Hearthstone with us?
+How bad is that for me? Calorie estimation from images
+Fast Tree-structured neural networks
+Bayesian network modeling for metadata prediction
+Data fusion for predicting cancer survival
+Unsupervised learning for analyzing brain tumors
+Deconvolution of DNA methylation data
+Deconvolution of methylome data in cancer patients
+Advanced machine learning techniques for thyroid cancer diagnosis
+Machine learning algorithms for the search for supersymmetric particles at the Large Hadron Collider
+New methods for Higgs boson identification at the Large Hadron Collider
+Higgs boson identification in the presence of noise
+Higgs boson identification at the Large Hadron Collider
+Learning the electric and quantum charge of high energy particles at the Large Hadron Collider
+Price forecast and virtual bidding of electricity contracts in the wholesale market
+Predict food properties from a single image
+Deep Learning for Medical Record Understanding
+Inferring ancestry from genomic sequence
+Unsupervised modeling of character archetypes in fiction
+Predicting the reception of stories in a community of amateur writers
+Unsupervised Learning of Writing Style
+Predicting Short-Range Displacements From Sensor Data
+Predicting user’s next location
+Detecting YouTube comment spam
+Identifying the genre of a song
+Shock front classification
+Predicting bird species
+Identifying handwritten mathematical symbols
+Scotch whisky classification
+Investigate Enron
+Automatic system for detecting trends in fashion
+Web pattern navigation profiling for online marketing
+Diet4You
+Unlocking phone using faceID
+Gmail’s smart reply
+Uber’s ride-sharing app
+Forecasting earthquake aftershock locations
+Cartoonify Image with Machine Learning
+Emojify – Create your own emoji with Python
+Loan Prediction using Machine Learning
+Housing Prices Prediction Project
+Wine Quality Test Project
+Fake News Detection Project
+Music Genre Classification Machine Learning Project
+Bitcoin Price Predictor Project
+Uber Data Analysis Project
+Personality Prediction Project
+Handwritten Character Recognition
+Xbox Game Prediction Project
+Credit Card Fraud Detection Project
+Sign Language Recognition with Machine Learning
+Barbie with Brains Project
+Customer Segmentation using Machine Learning
+Sentiment Analysis using Machine Learning
+Enron Investigation Project
+Speech Emotion Recognition Machine Learning Project
+Catching Illegal Fishing Project
+Online Grocery Recommendation using Collaborative Filtering
+Movie Recommendation System using Machine Learning
+Automatic License Number Plate Recognition System
+Image Segmentation with Machine Learning
+Spoiler Blocker Extension
+Lane Line Detection
+Spam Classifier
+Optimal Path
+Artificial Intelligence in Pneumonia Detection
+Game of Chess
+Fire Detection and Localization Using Surveillance Camera
+Website Evaluation Using Opinion Mining
+T-rex Dino Bot
+Next word predictor
+Chatbot using AIML (Artificial Intelligence Markup Language)
+Fake Product Review Monitoring System
+Learn to Drive with Reinforcement Learning
+Automatic Attendance System
+Price Negotiator Ecommerce Chatbot System
+AI Bot to Play Snake Game
+Self-Driving Car
+Music Recommendation App
+Sports Predictor
+Object Detection with Deep Learning
+Fake News Detection
+Enrol Email Project
+Parkinson’s project
+Sports match video text summarization
+Business meeting summary generator
+Sentiment analysis for depression
+Handwritten equation solver 
+Facial recognition to detect mood and recommend songs
+Music generator
+Disease prediction system
+Finding a habitable exo-planet 
+Image regeneration for old & damaged reels
