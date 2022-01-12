@@ -1,0 +1,18 @@
+{% include 'header.html' %}
+<body class="" style="">
+<div
+  class="d-flex align-items-center justify-content-center"
+  style="height: inherit;">
+<div class="row">
+<center>
+<h1>{{msg}}</h1><br><br>
+	<form action = "{{ form_action }}" method = "POST" 
+			 enctype = "multipart/form-data">
+			 <input type = "file" class="form-control" name = "file" /><br>
+			 <input type = "submit" class="btn btn-primary" value="Upload"/>
+		  </form>  
+		  </center>
+</div>
+
+</div>
+	  {% include 'footer.html' %}

@@ -1,0 +1,39 @@
+<style>
+h3,h2{
+	color: #6f42c1;
+	margin:2%;
+	
+}
+</style>
+<body>
+    <center>
+        <div class="col-sm">
+			<form action="/webcam" method="post"  enctype="multipart/form-data" >
+                <div align="center">
+                     <h3>Detect mood from Webcam  <input type="submit" value="Start WebCam" class="btn btn-primary" action="/webcam" method="post" ></h3>
+                </div>
+            </form>
+	    </div>
+	</center>
+	
+</body>
+
+<div class="text-center">
+    {% if emotion %}
+     <h2>you seems to be: {{ emotion }}</h2>
+	{% if image %}
+    <div style="display:inline-block">
+        <img src="{{image}}" style="width:550px;">
+    </div>
+	{% endif %}
+	<div style="display:inline-block">
+	 <h3>here are some movies for your mood:</h3>
+	 <ul style="list-style-type:none">
+        {% for recommendation in recommendations %}
+        <li>{{ recommendation }}</li>
+        {% endfor %}
+     </ol>
+	</div>
+	{% endif %}
+    
+</div>
