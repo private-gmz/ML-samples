@@ -1,5 +1,5 @@
-# samples of Machine Learning projects
-This repository contains some machine learning code samples (MATLAB files and notebooks/Python).
+# Some shared samples of Machine Learning projects
+This repository contains some machine learning code <b>samples</b> (MATLAB files and notebooks/Python).
 - age-gender-race multi-model (notebook/tensorflow): 
  This code builds a multi_task model to predict (age, gender and race) using utkface dataset which is available on kaggle. The dataset containes approximately 20,000 images with three labels (age, gender and race).
  The purpose of this notebook is to try many things regarding face detection like (transfer learning, image generating, augmentation, one model with three branches for age, race and gender).
